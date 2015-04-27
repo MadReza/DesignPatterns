@@ -2,7 +2,7 @@
 Design Patterns with different kinds of implementation, different attributes, pros/cons, different languages implementation
 
 ##Liability: 
-By using or reading anything here, you agree that I am no liabile for anything.
+By using or reading anything here, you agree that I am no liable for anything.
 
 ##Goal: 
     A Short and sweet summation of Design Patterns. This is meant just for me and random people I teach very rarely to. 
